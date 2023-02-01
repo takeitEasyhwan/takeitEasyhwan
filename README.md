@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=nxwhxj&fontSize=90&fontcolor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={wlghks0508})](https://solved.ac/{wlghks0508})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wlghks0508)](https://solved.ac/wlghks0508)
   
 **nxwhxj/nxwhxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
