@@ -1,6 +1,7 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=nxwhxj%20Github&fontSize=90)
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=I'm%20nxwhxj&fontSize=90)
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wlghks0508)](https://solved.ac/wlghks0508)
