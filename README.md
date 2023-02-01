@@ -2,8 +2,10 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=nxwhxj&fontSize=90&fontcolor=white)
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
+
 **nxwhxj/nxwhxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
