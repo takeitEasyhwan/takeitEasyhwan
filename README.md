@@ -26,7 +26,7 @@
   </table>
 </div>
 
-***
+<br>
 
 <div align=center> 
   <img src="https://boj.profilecard.kr/info?username=wlghks0508" />
@@ -50,7 +50,7 @@
 
 </div>
 
-***
+<br>
 
 <h1 align="center">📌 Careers & Activities</h1>
 <div align="center">
@@ -70,7 +70,7 @@
   </table>
 </div>
 
-***
+<br>
 
 <h1 align="center">💡 Projects</h1>
 <h3 align="left">📱 QweR</h3>
@@ -96,7 +96,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 </ul>
 
 
-***
+<br>
 
 <div align=center> 
   <i>Follow me around the web:</i>
