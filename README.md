@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jihwan LEE" src="./assets/gh-readme-header.png" /></a></p>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=takeitEasyhwan&fontSize=90)
 
 * * *
