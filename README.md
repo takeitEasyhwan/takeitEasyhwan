@@ -3,7 +3,7 @@
 * * *
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=KOTLIN&logoColor=black">
 
-<img src="https://img.shields.io/badge/Java-#FF7800?style=for-the-badge&logo=OpenJDK&logoColor=black">
+<img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=black">
 
 <img src="https://boj.profilecard.kr/info?username=wlghks0508" />
 
