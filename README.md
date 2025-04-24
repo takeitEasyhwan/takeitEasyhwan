@@ -6,5 +6,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takeitEasyhwan&layout=compact&theme=dark)
 
 
-![](https://boj.profilecard.kr/info?username=wlghks0508)
-
+<img src="https://boj.profilecard.kr/info?username=wlghks0508" />
