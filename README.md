@@ -28,7 +28,7 @@
 <div align=center> 
 
 
-  <i>Follow me around the web:</i><br>
+  <i>Follow me around the web:</i><br><br>
   <a href="https://www.instagram.com/_nxwhxj" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://velog.io/@wlghks0508" target="_blank"><img src="https://img.shields.io/badge/Velog-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Velog"></a>
 </div>
