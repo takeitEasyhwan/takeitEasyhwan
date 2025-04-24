@@ -1,7 +1,5 @@
 <div width="800px" align="center">
   <img src="https://github.com/user-attachments/assets/0c7f4997-6f0a-4fc6-9f89-f664d87b09fe" width="150" style="border-radius: 50%;" alt="profile"/>
-<div align="center">
-<div align="center">
   <table>
     <tr>
       <td width="30%" align="center">
