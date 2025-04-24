@@ -1,12 +1,9 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jihwan LEE" src="./assets/gh-readme-header.png" /></a></p>
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=takeitEasyhwan&fontSize=90)
 
 * * *
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=KOTLIN&logoColor=black">
 
-<img src="https://img.shields.io/badge/Java-#FF7800?style=for-the-badge&logo=Kotlin&logoColor=black">
+<img src="https://img.shields.io/badge/Java-#FF7800?style=for-the-badge&logo=OpenJDK&logoColor=black">
 
 <img src="https://boj.profilecard.kr/info?username=wlghks0508" />
 
