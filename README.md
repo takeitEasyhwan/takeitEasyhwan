@@ -49,6 +49,26 @@
 
 </div>
 
+<h2 align="center">📌 Careers & Activities</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>🎓 한국디지털미디어고등학교</strong></td>
+      <td>웹프로그래밍과 졸업<br><i>2015.03 ~ 2018.02</i></td>
+    </tr>
+    <tr>
+      <td><strong>🎓 건국대학교</strong></td>
+      <td>컴퓨터공학부 졸업<br><i>2018.03 ~ 2024.02</i></td>
+    </tr>
+    <tr>
+      <td><strong>💼 대유넥스티어 인턴십</strong></td>
+      <td>인턴 생활 및 프로젝트 진행<br><i>2023.07.24 ~ 2023.12.29</i></td>
+    </tr>
+  </table>
+</div>
+
+
+
 ***
 
 <div align=center> 
