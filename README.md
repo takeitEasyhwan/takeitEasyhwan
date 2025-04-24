@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=takeitEasyhwan&fontSize=90)
-
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://takeiteasyhwan.github.io/takeitEasyhwan/martonlederer/martonlederer/master/name.svg" alt="Hi, I'm Jihwan LEE" />
 </h1>
 
 
