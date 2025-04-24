@@ -98,6 +98,8 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 
 <br>
 
+***
+
 <div align=center> 
   <i>Follow me around the web:</i>
   <br><br>
