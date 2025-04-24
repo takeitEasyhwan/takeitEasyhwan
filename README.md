@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/0c7f4997-6f0a-4fc6-9f89-f664d87b09fe" 
-       width="250" 
+       width="80%" 
        style="border-radius: 50%;" 
        alt="profile"/>
   <table>
