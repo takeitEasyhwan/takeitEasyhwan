@@ -3,7 +3,7 @@
     <tr>
       <!-- 왼쪽: 프로필 이미지 -->
       <td width="30%" align="center">
-        <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 80%;" alt="profile"/>
+        <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
         <h3>👋 WHO ARE YOU?</h3>
