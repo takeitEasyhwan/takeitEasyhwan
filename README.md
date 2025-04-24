@@ -52,7 +52,7 @@
 
 ***
 
-<h2 align="center">📌 Careers & Activities</h2>
+<h3 align="center">📌 Careers & Activities</h3>
 <div align="center">
   <table>
     <tr>
@@ -72,7 +72,7 @@
 
 ***
 
-<h2 align="center">💡 Projects</h2>
+<h3 align="center">💡 Projects</h3>
 <h3 align="left">📱 QweR</h3>
 <p><strong>역할:</strong> PM, Android Developer, NLP Model Training (KoBART)</p>
 <p><strong>설명:</strong><br>
