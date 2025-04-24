@@ -1,7 +1,6 @@
 <div align="center">
   <table>
     <tr>
-      <!-- 왼쪽: 프로필 이미지 -->
       <td width="30%" align="center">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
@@ -37,7 +36,8 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
-  <img src="https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=black"> 
+  <img src="https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apex-17541F?style=for-the-badge&logo=salesforce&logoColor=black"> 
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
