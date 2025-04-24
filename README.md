@@ -1,13 +1,13 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/0c7f4997-6f0a-4fc6-9f89-f664d87b09fe" width="80%" alt="profile"/>
     <img src="https://github.com/user-attachments/assets/ab0adb66-cdbb-451f-a740-43ba9c1c1991" width="80%" alt="profile"/>
+    <h1>👋 WHO ARE YOU?</h1>
   <table>
     <tr>
       <td width="30%" align="center">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
-        <h3>👋 WHO ARE YOU?</h3>
         <ul>
           <li><strong>Communication</strong></li>
           <li><strong>Challenge spirit</strong></li>
@@ -52,7 +52,7 @@
 
 ***
 
-<h3 align="center">📌 Careers & Activities</h3>
+<h1 align="center">📌 Careers & Activities</h1>
 <div align="center">
   <table>
     <tr>
@@ -72,7 +72,7 @@
 
 ***
 
-<h3 align="center">💡 Projects</h3>
+<h1 align="center">💡 Projects</h1>
 <h3 align="left">📱 QweR</h3>
 <p><strong>역할:</strong> PM, Android Developer, NLP Model Training (KoBART)</p>
 <p><strong>설명:</strong><br>
