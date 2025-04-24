@@ -26,6 +26,7 @@
   </table>
 </div>
 
+***
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
@@ -49,6 +50,8 @@
 
 </div>
 
+***
+
 <h2 align="center">📌 Careers & Activities</h2>
 <div align="center">
   <table>
@@ -67,6 +70,30 @@
   </table>
 </div>
 
+***
+
+<h2 align="center">💡 Projects</h2>
+<h3 align="left">📱 QweR</h3>
+<p><strong>역할:</strong> PM, Android Developer, NLP Model Training (KoBART)</p>
+<p><strong>설명:</strong><br>
+QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 모바일 앱 <strong>‘QweR’</strong>를 개발했습니다. 프론트엔드(Android)와 KoBART 기반 요약 모델 구축을 맡았으며, 정보 과잉 속 효율적인 콘텐츠 소비를 돕는 데 중점을 둔 프로젝트입니다.
+</p>
+<p>
+<a href="https://www.notion.so/2-QweR-b832eedf1d334f62ba4a4f6306dd0a76?pvs=21" target="_blank">📄 [시스템 개발 최종보고서 바로가기]</a>
+</p>
+<ul>
+  <li><strong>Kotlin 기반 Android 프론트엔드 개발</strong><br>
+  사용자 흐름에 맞춘 UI/UX 구성</li>
+
+  <li><strong>KoBART 기반 요약 모델 구축 및 학습</strong><br>
+  기사 데이터 수집 → 모델 재학습 → 정확도/속도 개선</li>
+
+  <li><strong>ChatGPT API와의 성능 비교 및 통합 설계</strong><br>
+  사용자 설정에 따라 KoBART/ChatGPT 선택 가능하게 구현</li>
+
+  <li><strong>팀 협업 및 기술 결정 주도</strong><br>
+  팀원들과 기술적 갈등을 해결하며 최적의 구조 도출</li>
+</ul>
 
 
 ***
