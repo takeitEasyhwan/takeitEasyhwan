@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심+많은+개발자&fontSize=60" />
     <h3>호기심을 원동력 삼아 끊이없이 도전하며 나아가는 주니어 개발자입니다.</h3>
     <h1>👋 WHO ARE YOU?</h1>
+    
 🗣️ **Communication** &nbsp;&nbsp;&nbsp; 🚀 **Challenge spirit** &nbsp;&nbsp;&nbsp; 🔥 **Eagerness**
+
   <table>
     <tr>
       <td width="30%" align="center">
