@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심많은개발자&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심 많은개발자&fontSize=90" />
     <h1>👋 WHO ARE YOU?</h1>
   <table>
     <tr>
