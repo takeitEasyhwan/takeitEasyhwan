@@ -8,9 +8,7 @@
 
   <table>
     <tr>
-        <td>
-            <p>🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp; 🚀 <strong>Challenge spirit</strong> &nbsp;&nbsp;&nbsp; 🔥 <strong>Eagerness</strong></p>
-        </td>
+        <p>🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp; 🚀 <strong>Challenge spirit</strong> &nbsp;&nbsp;&nbsp; 🔥 <strong>Eagerness</strong></p>
     </tr>
     <tr>
       <td width="30%" align="center">
