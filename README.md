@@ -4,15 +4,17 @@
     <h1>👋 WHO ARE YOU?</h1>
   <table>
     <tr>
+      <ul style="display:flex;list-style: none;justify-content: space-around;padding:0;">
+          <li><strong>Communication</strong></li>
+          <li><strong>Challenge spirit</strong></li>
+          <li><strong>Eagerness</strong></li>
+      </ul>
+    </tr>
+    <tr>
       <td width="30%" align="center">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
-        <ul>
-          <li><strong>Communication</strong></li>
-          <li><strong>Challenge spirit</strong></li>
-          <li><strong>Eagerness</strong></li>
-        </ul>
         <p><strong>1. 함께 성장하는 개발자</strong><br>
         학교 동기들과 매주 1회 
         <a href="https://github.com/takeitEasyhwan/Algorithm">알고리즘</a>, 
@@ -99,10 +101,9 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
   팀원들과 기술적 갈등을 해결하며 최적의 구조 도출</li>
 </ul>
 
-
 <br>
 
-***
+---
 
 <div align=center> 
   <i>Follow me around the web:</i>
