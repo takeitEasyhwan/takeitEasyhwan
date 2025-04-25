@@ -4,9 +4,14 @@
     <br><br>
     <h1>👋 WHO ARE YOU?</h1>
     
-🗣️ **Communication** &nbsp;&nbsp;&nbsp; 🚀 **Challenge spirit** &nbsp;&nbsp;&nbsp; 🔥 **Eagerness**
+
 
   <table>
+    <tr>
+        <td>
+            <p>🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp; 🚀 <strong>Challenge spirit</strong> &nbsp;&nbsp;&nbsp; 🔥 <strong>Eagerness</strong></p>
+        </td>
+    </tr>
     <tr>
       <td width="30%" align="center">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
