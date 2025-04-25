@@ -1,6 +1,9 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/0c7f4997-6f0a-4fc6-9f89-f664d87b09fe" width="80%" alt="profile"/>
-    <img src="https://github.com/user-attachments/assets/ab0adb66-cdbb-451f-a740-43ba9c1c1991" width="80%" alt="profile"/>
+<!--     <img src="https://github.com/user-attachments/assets/0c7f4997-6f0a-4fc6-9f89-f664d87b09fe" width="80%" alt="profile"/> -->
+<!--     <img src="https://github.com/user-attachments/assets/ab0adb66-cdbb-451f-a740-43ba9c1c1991" width="80%" alt="profile"/> -->
+
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심 많은 개발자&fontSize=90" />
+    
     <h1>👋 WHO ARE YOU?</h1>
   <table>
     <tr>
