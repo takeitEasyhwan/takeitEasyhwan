@@ -4,8 +4,8 @@
     <h1>👋 WHO ARE YOU?</h1>
   <table>
     <tr>
-🗣️ **Communication** &nbsp;&nbsp;&nbsp; 🚀 **Challenge spirit** &nbsp;&nbsp;&nbsp; 🔥 **Eagerness**
         
+🗣️ **Communication** &nbsp;&nbsp;&nbsp; 🚀 **Challenge spirit** &nbsp;&nbsp;&nbsp; 🔥 **Eagerness**
     </tr>
     <tr>
       <td width="30%" align="center">
