@@ -2,12 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심+많은+개발자&fontSize=60" />
     <h3>호기심을 원동력 삼아 끊이없이 도전하며 나아가는 주니어 개발자입니다.</h3>
     <h1>👋 WHO ARE YOU?</h1>
-  <table>
-    <tr>
-        
 🗣️ **Communication** &nbsp;&nbsp;&nbsp; 🚀 **Challenge spirit** &nbsp;&nbsp;&nbsp; 🔥 **Eagerness**
-
-    </tr>
+  <table>
     <tr>
       <td width="30%" align="center">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
