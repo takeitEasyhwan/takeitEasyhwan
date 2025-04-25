@@ -4,11 +4,9 @@
     <h1>👋 WHO ARE YOU?</h1>
   <table>
     <tr>
-      <ul style="display:flex;list-style: none;justify-content: space-around;padding:0;">
-          <li><strong>Communication</strong></li>
-          <li><strong>Challenge spirit</strong></li>
-          <li><strong>Eagerness</strong></li>
-      </ul>
+
+🗣️ **Communication** &nbsp;&nbsp;&nbsp; 🚀 **Challenge spirit** &nbsp;&nbsp;&nbsp; 🔥 **Eagerness**
+
     </tr>
     <tr>
       <td width="30%" align="center">
