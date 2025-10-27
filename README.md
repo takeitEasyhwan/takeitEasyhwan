@@ -88,7 +88,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 
   ## 🧠 Tech Stack
   
-  <br>
+<br>
 
 <h3>| Backend</h3>
 
@@ -98,31 +98,31 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Apex-17541F?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
-<br><br>
+<br>
 
-| Frontend
+<h3>| Frontend</h3>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> 
 
-<br><br>
+<br>
 
-| Language / Data
+<h3>| Language / Data</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
-<br><br>
+<br>
 
-| Cloud / Infra
+<h3>| Cloud / Infra</h3>
 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
 
-<br><br>
+<br>
 
-| Collaboration
+<h3>| Collaboration</h3>
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
