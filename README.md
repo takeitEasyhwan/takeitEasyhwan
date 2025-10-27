@@ -1,6 +1,6 @@
-<div>
-    <img align = 'center src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심+많은+개발자&fontSize=60" />
-    <h3 align = 'center'>호기심을 원동력 삼아 끊임없이 도전하며 나아가는 주니어 개발자입니다</h3>
+<div align = 'center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심+많은+개발자&fontSize=60" />
+    <h3>호기심을 원동력 삼아 끊임없이 도전하며 나아가는 주니어 개발자입니다</h3>
     <br><br>
     <h1>👋 WHO ARE YOU?</h1>
     
