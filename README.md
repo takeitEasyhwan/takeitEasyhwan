@@ -33,7 +33,7 @@
 <h1>💡 Projects</h1>
 <br>
 <h3 align="left">💹 SOL Assistant – 초보자 투자 어시스트 대시보드</h3>
-<p><strong>역할:</strong> PM, Backend Developer</p>
+<p><strong>역할:</strong> PM, Backend Developer (spring)</p>
 <p>신한투자증권 프로디지털 아카데미 파이널 프로젝트로, 초보 투자자를 위한 <strong>‘투자 어시스트 대시보드’</strong>를 개발했습니다.</p>
 
 <ul>
