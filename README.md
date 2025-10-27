@@ -32,22 +32,24 @@
 
 <h1>💡 Projects</h1>
 <br>
-
-<h3 align="left">📱 QweR – KoBART 기반 QR 코드 요약 앱</h3>
-<p><strong>역할:</strong> Android Developer, NLP Model Trainer</p>
-<p>QR 코드를 스캔해 본문을 요약하고, 유해 콘텐츠를 차단하는 모바일 앱 <strong>‘QweR’</strong>를 개발했습니다.</p>
+<h3 align="left">💹 SOL Assistant – 초보자 투자 어시스트 대시보드</h3>
+<p><strong>역할:</strong> PM, Backend Developer</p>
+<p>신한투자증권 프로디지털 아카데미 파이널 프로젝트로, 초보 투자자를 위한 <strong>‘투자 어시스트 대시보드’</strong>를 개발했습니다.</p>
 
 <ul>
-  <li>기사 데이터를 직접 수집하고 KoBART 모델을 재학습하여 요약 품질 개선</li>
-  <li>Batch Size 조정으로 처리 속도 <strong>15초 → 10초</strong> 단축</li>
-  <li>ChatGPT API 통합으로 KoBART·GPT 선택형 하이브리드 구조 설계</li>
-  <li>Kotlin 기반 MVVM 아키텍처 적용, 실시간 요약 결과 반영</li>
-  <li>실험 리포트를 통해 팀 내 기술 의사결정 주도</li>
+  <li>실시간 시장 데이터 분석 및 맞춤형 투자 리포트 제공</li>
+  <li>4개의 MSA 모듈로 분리 (internal, external, chart-similarity, common)</li>
+  <li>사용자 행동 로그를 10초 간격으로 수집 → <strong>Redis → Kafka → RDS</strong> 비동기 파이프라인 구축</li>
+  <li>Kafka 메시징으로 서비스 간 통신 지연 <strong>300ms → 40ms</strong> 단축</li>
+  <li>Redis 캐싱으로 대시보드 조회 속도 <strong>45%</strong> 개선</li>
+  <li>PM으로서 아키텍처 정의, API 명세, Kafka 토픽 설계 주도</li>
 </ul>
 
-<p><strong>성과:</strong> 하이브리드 요약 시스템 완성 → <strong>우수 프로젝트 선정</strong></p>
-<p><strong>🧩 Tech Stack:</strong> Kotlin · Android Studio · KoBART · HuggingFace · ChatGPT API</p>
-<p><a href="https://www.notion.so/2-QweR-b832eedf1d334f62ba4a4f6306dd0a76?pvs=21" target="_blank">📄 시스템 개발 보고서 보기</a></p>
+<p><strong>성과:</strong> 안정적인 실시간 아키텍처 구현</p>
+<p><strong>🧩 Tech Stack:</strong> Spring Boot · Kafka · Redis · MariaDB · Docker · AWS EC2 · React</p>
+
+
+
 
 <hr>
 
@@ -62,28 +64,26 @@
   <li>사용자별 학습 기록을 ‘잔디형 캘린더’로 시각화</li>
 </ul>
 
-<p><strong>성과:</strong> 데이터 로딩 속도 <strong>35%</strong> 개선 · 차트 정확도 <strong>99%</strong> 유지 · 4주 내 완성</p>
-<p><strong>🧩 Tech Stack:</strong> React · Node.js · Express · Python · Chart.js · AWS EC2 · MariaDB</p>
+<p><strong>성과:</strong> 데이터 로딩 속도 <strong>35%</strong> 개선 · 차트 정확도 <strong>99%</strong></p>
+<p><strong>🧩 Tech Stack:</strong> React · Node.js · Express · Python · AWS EC2 · MongoDB</p>
 
 <hr>
 
-<h3 align="left">💹 SOL Assistant – 초보자 투자 어시스트 대시보드</h3>
-<p><strong>역할:</strong> PM, Backend Developer</p>
-<p>신한투자증권 프로디지털 아카데미 파이널 프로젝트로, 초보 투자자를 위한 <strong>‘투자 어시스트 대시보드’</strong>를 개발했습니다.</p>
+<h3 align="left">📱 QweR – KoBART 기반 QR 코드 요약 앱</h3>
+<p><strong>역할:</strong> Android Developer, NLP Model Trainer</p>
+<p>QR 코드를 스캔해 본문을 요약하고, 유해 콘텐츠를 차단하는 모바일 앱 <strong>‘QweR’</strong>를 개발했습니다.</p>
 
 <ul>
-  <li>실시간 시장 데이터 분석 및 맞춤형 투자 리포트 제공</li>
-  <li>4개의 MSA 모듈로 분리 (internal, external, chart-similarity, common)</li>
-  <li>사용자 행동 로그를 10초 간격으로 수집 → <strong>Redis → Kafka → RDS</strong> 비동기 파이프라인 구축</li>
-  <li>Kafka 메시징으로 서비스 간 통신 지연 <strong>300ms → 40ms</strong> 단축</li>
-  <li>Redis 캐싱으로 대시보드 조회 속도 <strong>45%</strong> 개선</li>
-  <li>PM으로서 아키텍처 정의, API 명세, Kafka 토픽 설계 주도</li>
+  <li>기사 데이터를 직접 수집하고 KoBART 모델을 재학습하여 요약 품질 개선</li>
+  <li>Batch Size 조정으로 처리 속도 <strong>15초 → 10초</strong> 단축</li>
+  <li>ChatGPT API 통합으로 KoBART·GPT 선택형 하이브리드 구조 설계</li>
+  <li>Kotlin 기반 MVVM 아키텍처 적용, 실시간 요약 결과 반영</li>
+  <li>실험 리포트를 통해 팀 내 기술 의사결정 주도</li>
 </ul>
 
-<p><strong>성과:</strong> 안정적인 실시간 아키텍처 구현 → <strong>최우수 프로젝트 선정</strong></p>
-<p><strong>🧩 Tech Stack:</strong> Spring Boot · Kafka · Redis · MariaDB · Docker · AWS EC2 · React</p>
-
-
+<p><strong>성과:</strong> 하이브리드 요약 시스템 완성 → <strong>우수 프로젝트 선정</strong></p>
+<p><strong>🧩 Tech Stack:</strong> Kotlin · Android Studio · KoBART · ChatGPT API</p>
+<p><a href="https://www.notion.so/2-QweR-b832eedf1d334f62ba4a4f6306dd0a76?pvs=21" target="_blank">📄 시스템 개발 보고서 보기</a></p>
 
 <br>
 
