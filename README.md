@@ -64,7 +64,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 <br>
 
 <h1>🧠 Tech Stack</h1>
-
+<div>
 <h3>| Backend</h3>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> 
@@ -102,7 +102,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-
+</div>
 <br>
 
 <h1>🪪 Cert</h1>
