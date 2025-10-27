@@ -54,7 +54,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
   팀원들과 기술적 갈등을 해결하며 최적의 구조 도출</li>
 </ul>
 
-## 🎓 Education
+<h1> 🎓 Education </h1>
 
 | 기관 | 전공 / 과정 | 기간 |
 |:------|:-------------|:------:|
@@ -63,13 +63,6 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 | 한국디지털미디어고등학교 | 웹프로그래밍과 졸업 | 2015.03.02 ~ 2018.02.02 |
 
 <br>
-
-
-<div>
-
-
-
-
 
 <h1>🧠 Tech Stack</h1>
 
@@ -111,9 +104,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
 
-<br><br>
-
-</div>
+<br>
 
 <h1>🪪 Cert</h1>
 
@@ -138,14 +129,6 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 - **IT 동아리 ‘비빔밥’** 활동 (2022.01.01 ~ 2023.06.30)
 
 <br>
-
-
-<div>
-
-
-  <br>
-
-</div>
 
 
 <br>
