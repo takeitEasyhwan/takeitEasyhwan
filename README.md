@@ -47,8 +47,9 @@
 
 <p><strong>성과:</strong> 안정적인 실시간 아키텍처 구현</p>
 <p><strong>🧩 Tech Stack:</strong> Spring Boot · Kafka · Redis · MariaDB · Docker · AWS EC2 · React</p>
-
-
+<p>
+  🔗 <a href="https://github.com/takeitEasyhwan/SOL-Assistant-backend-MSA" target="_blank">GitHub Repository</a> <br>
+</p>
 
 
 <hr>
@@ -66,7 +67,12 @@
 
 <p><strong>성과:</strong> 데이터 로딩 속도 <strong>35%</strong> 개선 · 차트 정확도 <strong>99%</strong></p>
 <p><strong>🧩 Tech Stack:</strong> React · Node.js · Express · Python · AWS EC2 · MongoDB</p>
-
+<p>
+  🔗 <a href="https://github.com/takeitEasyhwan/Candly-Server" target="_blank">GitHub Repository</a> <br>
+</p>
+<p>
+  🔗 <a href="https://github.com/takeitEasyhwan/Candly-Client" target="_blank">GitHub Repository</a> <br>
+</p>
 <hr>
 
 <h3 align="left">📱 QweR – KoBART 기반 QR 코드 요약 앱</h3>
