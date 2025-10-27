@@ -31,30 +31,6 @@
 
 <br>
 
-<h1 align="center">📌 Careers & Activities</h1>
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>🎓 한국디지털미디어고등학교</strong></td>
-      <td>웹프로그래밍과 졸업<br><i>2015.03 ~ 2018.02</i></td>
-    </tr>
-    <tr>
-      <td><strong>🎓 건국대학교</strong></td>
-      <td>컴퓨터공학부 졸업<br><i>2018.03 ~ 2024.02</i></td>
-    </tr>
-    <tr>
-      <td><strong>💼 대유넥스티어 인턴십</strong></td>
-      <td>인턴 생활 및 프로젝트 진행<br><i>2023.07.24 ~ 2023.12.29</i></td>
-    </tr>
-    <tr>
-      <td><strong>💹 신한투자증권 프로디지털아카데미6기</strong></td>
-      <td>클라우드 기반 금융 ICT교육 이수<br><i>2025.04.22 ~ </i></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <h1 align="center">💡 Projects</h1>
 <h3 align="left">📱 QweR</h3>
 <p><strong>역할:</strong> PM, Android Developer, NLP Model Training (KoBART)</p>
@@ -79,13 +55,40 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 </ul>
 
 
+<h1 align="center">📌 Careers & Activities</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>🎓 한국디지털미디어고등학교</strong></td>
+      <td>웹프로그래밍과 졸업<br><i>2015.03 ~ 2018.02</i></td>
+    </tr>
+    <tr>
+      <td><strong>🎓 건국대학교</strong></td>
+      <td>컴퓨터공학부 졸업<br><i>2018.03 ~ 2024.02</i></td>
+    </tr>
+    <tr>
+      <td><strong>💼 대유넥스티어 인턴십</strong></td>
+      <td>인턴 생활 및 프로젝트 진행<br><i>2023.07.24 ~ 2023.12.29</i></td>
+    </tr>
+    <tr>
+      <td><strong>💹 신한투자증권 프로디지털아카데미6기</strong></td>
+      <td>클라우드 기반 금융 ICT교육 이수<br><i>2025.04.22 ~ </i></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+
 <div align="center">
 
+
+
+
+
   ## 🧠 Tech Stack
-
+  
   <br>
-
-
 
 ### 💻 Backend
 
