@@ -3,9 +3,8 @@
     <h3>호기심을 원동력 삼아 끊임없이 도전하며 나아가는 주니어 개발자입니다</h3>
     <br><br>
     <h1>👋 WHO ARE YOU?</h1>
-    
-
-
+</div>
+<div align = 'center'>
   <table>
     <tr>
         <p>🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp; 🚀 <strong>Challenge spirit</strong> &nbsp;&nbsp;&nbsp; 🔥 <strong>Eagerness</strong></p>
