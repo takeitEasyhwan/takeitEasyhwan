@@ -15,13 +15,11 @@
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
-        <p><strong>1. 함께 성장하는 개발자</strong><br>
-        학교 동기들과 매주 1회 
-        <a href="https://github.com/takeitEasyhwan/Algorithm">알고리즘</a>, 
-        <a href="https://www.notion.so/CS-1d59e0ff0ea5806cbb1fd61940b3403b?pvs=21">CS 스터디</a>를 진행했습니다.</p>
-        <p><strong>2. 실무 중심의 문제 해결을 경험했습니다.</strong><br>
+        <p><strong>1. 리더쉽과 소통</strong><br>
+        다양한 프로젝트 PM을 맡아 소통을 바탕으로 문제 해결을 경험했습니다.
+        <p><strong>2. 실무 중심의 문제 해결</strong><br>
         인턴 과정에서 Salesforce 기반의 클라우드 개발 환경에서, 기업의 요구사항에 맞춰 API 개발, 트리거 수정, 인터페이스 구축 등의 실무를 경험했습니다.</p>
-        <p><strong>3. 새로운 분야에 도전하며, 성장의 폭을 넓히고 있습니다.</strong><br>
+        <p><strong>3. 새로운 분야에 도전</strong><br>
         AI, 자연어처리 등 다양한 분야에 관심을 갖고 학습해왔으며, KoBART 기반 텍스트 요약 프로젝트를 통해 실제 서비스에 적용 가능한 기술을 탐구했습니다.</p>
       </td>
     </tr>
