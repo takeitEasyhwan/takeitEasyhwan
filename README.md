@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심+많은+개발자&fontSize=60" />
     <h3>호기심을 원동력 삼아 끊임없이 도전하며 나아가는 주니어 개발자입니다</h3>
     <br><br>
@@ -11,7 +11,7 @@
         <p>🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp; 🚀 <strong>Challenge spirit</strong> &nbsp;&nbsp;&nbsp; 🔥 <strong>Eagerness</strong></p>
     </tr>
     <tr>
-      <td width="30%" align="center">
+      <td width="30%">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
@@ -31,7 +31,7 @@
 
 <br>
 
-<h1 align="center">💡 Projects</h1>
+<h1>💡 Projects</h1>
 <h3 align="left">📱 QweR</h3>
 <p><strong>역할:</strong> PM, Android Developer, NLP Model Training (KoBART)</p>
 <p><strong>설명:</strong><br>
@@ -55,8 +55,8 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 </ul>
 
 
-<h1 align="center">📌 Careers & Activities</h1>
-<div align="center">
+<h1>📌 Careers & Activities</h1>
+<div>
   <table>
     <tr>
       <td><strong>🎓 한국디지털미디어고등학교</strong></td>
@@ -80,7 +80,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 <br>
 
 
-<div align="center">
+<div>
 
 
 
@@ -133,7 +133,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 </div>
 
 
-<div align="center">
+<div>
 
 
   <br>
@@ -145,7 +145,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 
 ---
 
-<div align=center> 
+<div> 
   <i>Follow me around the web:</i>
   <br><br>
   <a href="https://www.instagram.com/_nxwhxj" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
