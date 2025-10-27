@@ -35,17 +35,17 @@
 <h3 align="left">💹 SOL Assistant – 초보자 투자 어시스트 대시보드</h3>
 <p><strong>역할:</strong> PM, Backend Developer (spring)</p>
 <p>신한투자증권 프로디지털 아카데미 파이널 프로젝트로, 초보 투자자를 위한 <strong>‘투자 어시스트 대시보드’</strong>를 개발했습니다.</p>
-
+<strong>아키텍처 설계:</strong>
 <ul>
-    <strong>아키텍처 설계:</strong>
     <li>4개의 마이크로서비스(<code>internal</code>, <code>external</code>, <code>chart-similarity</code>, <code>common</code>)로 분리하여 서비스 간 결합도를 낮추고, 장애 전파 없는 독립 배포 구조 구현</li>
-
-  <strong>MSA-external-service (뉴스, 차트 파트):</strong>  
-  <li>한국투자증권 Open API를 활용해 실시간 <strong>시세·거래량 데이터</strong> 수집  
-    - <strong>FinanceDataReader</strong>와 <strong>TA-Lib</strong> 기반으로 이동평균선, RSI 등 기술 지표 계산  
-    - <strong>섹터 뉴스 크롤러</strong> 제작 및 뉴스 요약 알고리즘 적용  
-    - 최신 시장 뉴스와 종목 차트를 통합하여 “오늘의 시장 흐름” 인사이트 제공</li>
-
+</ul>
+<strong>MSA-external-service (뉴스, 차트 파트):</strong>  
+<ul>
+    <li>한국투자증권 Open API를 활용해 실시간 <strong>시세·거래량 데이터</strong> 수집</li>
+    <li><strong>FinanceDataReader</strong>와 <strong>TA-Lib</strong> 기반으로 이동평균선, RSI 등 기술 지표 계산</li>
+    <li><strong>섹터 뉴스 크롤러</strong> 제작 및 뉴스 요약 알고리즘 적용</li>
+    <li>최신 시장 뉴스와 종목 차트를 통합하여 “오늘의 시장 흐름” 인사이트 제공</li>
+</ul>
   <li><strong>MSA-internal-service (매매 기록, 사용자 대시보드 파트):</strong>  
     - 사용자별 <strong>매매 이력(user_trades)</strong>과 <strong>보유 종목(user_stocks)</strong> 관리 API 개발  
     - <strong>Redis</strong>를 이용해 사용자별 투자 리포트 캐싱 → 대시보드 조회 속도 45% 향상  
