@@ -145,7 +145,7 @@ QR 코드를 스캔해 본문을 요약하고 유해 콘텐츠를 차단하는 �
 
 ---
 
-<div> 
+<div aling = center> 
   <i>Follow me around the web:</i>
   <br><br>
   <a href="https://www.instagram.com/_nxwhxj" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
