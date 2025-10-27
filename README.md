@@ -35,30 +35,33 @@
 <h3 align="left">💹 SOL Assistant – 초보자 투자 어시스트 대시보드</h3>
 <p><strong>역할:</strong> PM, Backend Developer (spring)</p>
 <p>신한투자증권 프로디지털 아카데미 파이널 프로젝트로, 초보 투자자를 위한 <strong>‘투자 어시스트 대시보드’</strong>를 개발했습니다.</p>
-<strong>아키텍처 설계:</strong>
+<strong>아키텍처 설계</strong>
 <ul>
     <li>4개의 마이크로서비스(<code>internal</code>, <code>external</code>, <code>chart-similarity</code>, <code>common</code>)로 분리하여 서비스 간 결합도를 낮추고, 장애 전파 없는 독립 배포 구조 구현</li>
 </ul>
-<strong>MSA-external-service (뉴스, 차트 파트):</strong>  
+<strong>MSA-external-service (뉴스, 차트 파트)</strong>  
 <ul>
     <li>한국투자증권 Open API를 활용해 실시간 <strong>시세·거래량 데이터</strong> 수집</li>
     <li><strong>FinanceDataReader</strong>와 <strong>TA-Lib</strong> 기반으로 이동평균선, RSI 등 기술 지표 계산</li>
     <li><strong>섹터 뉴스 크롤러</strong> 제작 및 뉴스 요약 알고리즘 적용</li>
     <li>최신 시장 뉴스와 종목 차트를 통합하여 “오늘의 시장 흐름” 인사이트 제공</li>
 </ul>
-  <li><strong>MSA-internal-service (매매 기록, 사용자 대시보드 파트):</strong>  
-    - 사용자별 <strong>매매 이력(user_trades)</strong>과 <strong>보유 종목(user_stocks)</strong> 관리 API 개발  
-    - <strong>Redis</strong>를 이용해 사용자별 투자 리포트 캐싱 → 대시보드 조회 속도 45% 향상  
-    - 거래 데이터 기반 <strong>수익률·보유일수·거래패턴 분석</strong> 로직 구현  
-    - PM 역할로서 API 스펙, 도메인 설계, 오류 복구 시나리오 수립 주도</li>
-
-  <li><strong>데이터 파이프라인:</strong>  
-    - 사용자 행동 로그를 10초 간격으로 수집 → <strong>Redis → Kafka → RDS</strong> 비동기 파이프라인 구축  
-    - Kafka 메시징으로 서비스 간 통신 지연을 <strong>300ms → 40ms</strong>로 단축</li>
-
-  <li><strong>협업 및 관리:</strong>  
-    - 팀 리더로서 전체 시스템 아키텍처 정의, 데이터 흐름 설계, 장애 대응 프로세스 수립  
-    - 프론트·AI 파트와 협업하며 <strong>Kafka 토픽 설계, Redis 키 구조, API 명세서</strong>를 주도 작성</li>
+<strong>MSA-internal-service (매매 기록, 사용자 대시보드 파트)</strong>
+<ul>
+    <li>사용자별 <strong>매매 이력(user_trades)</strong>과 <strong>보유 종목(user_stocks)</strong> 관리 API 개발</li>
+    <li><strong>Redis</strong>를 이용해 사용자별 투자 리포트 캐싱 → 대시보드 조회 속도 45% 향상</li>
+    <li>거래 데이터 기반 <strong>수익률·보유일수·거래패턴 분석</strong> 로직 구현</li>
+    <li>PM 역할로서 API 스펙, 도메인 설계, 오류 복구 시나리오 수립 주도</li>
+</ul>
+<strong>데이터 파이프라인:</strong>
+<ul>
+    <li>사용자 행동 로그를 10초 간격으로 수집 → <strong>Redis → Kafka → RDS</strong> 비동기 파이프라인 구축</li>
+    <li>Kafka 메시징으로 서비스 간 통신 지연을 <strong>300ms → 40ms</strong>로 단축</li>
+</ul>
+<strong>협업 및 관리</strong>
+<ul>
+    <li>팀 리더로서 전체 시스템 아키텍처 정의, 데이터 흐름 설계, 장애 대응 프로세스 수립</li>
+    <li>프론트·AI 파트와 협업하며 <strong>Kafka 토픽 설계, Redis 키 구조, API 명세서</strong>를 주도 작성</li>
 </ul>
 <p><strong>성과:</strong> 안정적인 실시간 아키텍처 구현</p>
 <p><strong>🧩 Tech Stack:</strong> Spring Boot · Kafka · Redis · MariaDB · Docker · AWS EC2 · React</p>
