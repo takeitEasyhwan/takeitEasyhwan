@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=고객%20만족과%20서비스%20품질을%20고민하는%20개발자%2C%20이지환입니다&fontSize=38" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=고객%20만족과%20서비스%20품질을%20고민하는%20개발자&fontSize=38" />
     <h3>실무 경험과 프로젝트를 통해 사용자 관점에서 문제를 해결하고, 더 나은 서비스 가치를 만드는 개발자로 성장하고 있습니다.</h3>
     <br><br>
     <h1>👋 ABOUT ME</h1>
