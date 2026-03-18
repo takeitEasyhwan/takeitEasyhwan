@@ -1,30 +1,40 @@
-<div align = 'center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=호기심+많은+개발자&fontSize=60" />
-    <h3>호기심을 원동력 삼아 끊임없이 도전하며 나아가는 주니어 개발자입니다</h3>
+<div align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=고객%20만족과%20서비스%20품질을%20고민하는%20개발자%2C%20이지환입니다&fontSize=38" />
+    <h3>실무 경험과 프로젝트를 통해 사용자 관점에서 문제를 해결하고, 더 나은 서비스 가치를 만드는 개발자로 성장하고 있습니다.</h3>
     <br><br>
-    <h1>👋 WHO ARE YOU?</h1>
+    <h1>👋 ABOUT ME</h1>
 </div>
-<div align = 'center'>
+
+<div align='center'>
+  <p>
+    🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp;
+    🚀 <strong>Challenge</strong> &nbsp;&nbsp;&nbsp;
+    🎯 <strong>Customer Value</strong> &nbsp;&nbsp;&nbsp;
+    🔧 <strong>Problem Solving</strong>
+  </p>
+</div>
+
+<div align='center'>
   <table>
-    <tr>
-        <p>🗣️ <strong>Communication</strong> &nbsp;&nbsp;&nbsp; 🚀 <strong>Challenge spirit</strong> &nbsp;&nbsp;&nbsp; 🔥 <strong>Eagerness</strong></p>
-    </tr>
     <tr>
       <td width="30%">
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
-        <p><strong>1. 리더쉽과 소통</strong><br>
-        여러 프로젝트에서 PM을 맡아 팀원들과의 적극적인 소통을 통해 문제를 해결하고 프로젝트를 성공적으로 이끌었습니다.</p>
-        <p><strong>2. 실무 중심의 문제 해결</strong><br>
-        인턴십 동안 Salesforce 기반 클라우드 환경에서 기업 요구에 맞춘 API 개발, 트리거 수정, 인터페이스 구축 등 실제 업무 프로세스를 경험했습니다.</p>
-        <p><strong>3. 새로운 분야에 도전</strong><br>
-        AI와 자연어처리 등 새로운 기술 분야에 꾸준히 도전해왔으며, KoBART 기반 텍스트 요약 프로젝트를 통해 서비스 적용 가능한 기술을 탐구했습니다.</p>
+        <p><strong>1. 고객 가치와 품질을 고민하는 개발자</strong><br>
+        단순히 기능을 구현하는 데 그치지 않고, 사용자가 더 편리하고 안정적으로 서비스를 이용할 수 있도록 고객 만족과 서비스 품질 관점에서 문제를 바라봅니다.</p>
+
+        <p><strong>2. 실무 경험을 통해 성장해온 문제 해결형 개발자</strong><br>
+        Salesforce 기반 CRM/ERP 개발 인턴십과 기업 실무 프로젝트를 통해 API 개발, 기능 개선, 운영 이슈 대응 등 실제 업무 환경에서 요구되는 문제 해결 경험을 쌓아왔습니다.</p>
+
+        <p><strong>3. 새로운 기술을 빠르게 흡수하고 적용하는 개발자</strong><br>
+        웹, 클라우드, AI/NLP 등 다양한 분야의 프로젝트를 수행하며 새로운 기술을 적극적으로 학습해왔고, 이를 서비스에 적용 가능한 형태로 구현하는 과정을 즐깁니다.</p>
       </td>
     </tr>
   </table>
 </div>
 
+<br>
 <br>
 
 
