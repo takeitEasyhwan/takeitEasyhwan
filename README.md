@@ -21,13 +21,13 @@
         <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
       </td>
       <td width="70%" align="left">
-        <p><strong> 1. 고객 가치와 품질을 고민하는 개발자</strong> <br>
+        <p> <strong> 1. 고객 가치와 품질을 고민하는 개발자</strong> <br>
         단순히 기능을 구현하는 데 그치지 않고, 사용자가 더 편리하고 안정적으로 서비스를 이용할 수 있도록 고객 만족과 서비스 품질 관점에서 문제를 바라봅니다. </p>
-
-        <p><strong> 2. 실무 경험을 통해 성장해온 문제 해결형 개발자 </strong> <br>
+ㅁ
+        <p> <strong> 2. 실무 경험을 통해 성장해온 문제 해결형 개발자 </strong> <br>
         Salesforce 기반 CRM/ERP 개발 인턴십과 기업 실무 프로젝트를 통해 API 개발, 기능 개선, 운영 이슈 대응 등 실제 업무 환경에서 요구되는 문제 해결 경험을 쌓아왔습니다.</p>
 
-        <p><strong>3. 새로운 기술을 빠르게 흡수하고 적용하는 개발자</strong><br>
+        <p> <strong> 3. 새로운 기술을 빠르게 흡수하고 적용하는 개발자</strong><br>
         웹, 클라우드, AI/NLP 등 다양한 분야의 프로젝트를 수행하며 새로운 기술을 적극적으로 학습해왔고, 이를 서비스에 적용 가능한 형태로 구현하는 과정을 즐깁니다.</p>
       </td>
     </tr>
