@@ -1,6 +1,6 @@
 <div align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=고객%20만족과%20서비스%20품질을%20고민하는%20개발자&fontSize=38" />
-    <h3>실무 경험과 프로젝트를 통해 사용자 관점에서 문제를 해결하고, <br> 더 나은 서비스 가치를 만드는 개발자로 성장하고 있습니다.</h3>
+    <h3>실무 경험과 프로젝트 수행 과정에서 사용자 관점으로 문제를 바라보고 해결하며,<br> 더 나은 서비스 가치를 만드는 개발자로 성장하고 있습니다.</h3>
     <br><br>
     <h1>👋 ABOUT ME</h1>
 </div>
@@ -17,8 +17,8 @@
 <div align='center'>
   <table>
     <tr>
-      <td width="30%">
-        <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" style="border-radius: 50%;" alt="profile"/>
+      <td width="30%" align="center" valign="middle">
+        <img src="https://github.com/user-attachments/assets/0f9678cf-bbec-42ed-b864-72d570f5d970" width="150" alt="profile"/>
       </td>
       <td width="70%" align="left">
         <br>
